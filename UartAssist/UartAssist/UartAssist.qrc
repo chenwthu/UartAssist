@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UartAssist.qss</file>
+        <file>UartAssist.ico</file>
+        <file>uartassist_zh.qm</file>
+    </qresource>
+</RCC>
